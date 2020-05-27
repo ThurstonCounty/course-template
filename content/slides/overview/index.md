@@ -1,18 +1,18 @@
 ---
-authors: []
-categories: []
+authors: ["Rodney"]
+categories: ["Overview"]
 date: "2019-02-05T00:00:00Z"
 slides:
   highlight_style: dracula
   theme: black
-summary: An introduction to using Academic's Slides feature.
+summary: Class Overview.
 tags: []
 title: Slides
 ---
 
-# Create slides in Markdown with Academic
+# Course Title Here
 
-[Academic](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
+[Course Webpage](https://example.org) | [Other Documentation](https://example.org)
 
 ---
 

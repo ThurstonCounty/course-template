@@ -6,18 +6,23 @@
 
 
 [[main]]
-  name = "Overview"
-  url = "overview.html"
-
+  name = "Syllabus"
+  url = "/syllabus/"
+  weight = 2
+  
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Prework"
+  url = "/prework/"
   weight = 10
 
+[[main]]
+  name = "Lectures"
+  url = "/talk/"
+  weight = 20
 
 [[main]]
   name = "Contact"
-  url = "#contact"
+  url = "/author/"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
