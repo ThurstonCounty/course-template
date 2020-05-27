@@ -509,6 +509,15 @@ Three
     </item>
     
     <item>
+      <title>Course Overview</title>
+      <link>/overview/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/overview/</guid>
+      <description>&lt;p&gt;This is where the overview goes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
